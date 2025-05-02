@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/E-commerce.git/static/css/main.5188fd28.css",
+    "main.js": "/E-commerce.git/static/js/main.ea40ebf0.js",
+    "service-worker.js": "/E-commerce.git/service-worker.js",
+    "index.html": "/E-commerce.git/index.html",
+    "main.5188fd28.css.map": "/E-commerce.git/static/css/main.5188fd28.css.map",
+    "main.ea40ebf0.js.map": "/E-commerce.git/static/js/main.ea40ebf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5188fd28.css",
+    "static/js/main.ea40ebf0.js"
+  ]
+}
